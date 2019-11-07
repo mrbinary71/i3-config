@@ -1,6 +1,7 @@
 # i3-config
 Set i3 window manager config in linux (ubuntu)
 
+##### این آموزش به زبان فارسی در [این وب سایت](https://mr-binary.com/کانفیگ-کردن-i3-در-لینوکس-اوبونتو/) میباشد 
 
 ### This config file contains:
 
@@ -104,5 +105,6 @@ bindsym --release $mod+shift+d exec i3-dmenu-desktop
 ### END
 
 After set changes in config file, you need to refresh i3, for this action use shortcut $mod + shift + r
+زیر میباشد
 
 
