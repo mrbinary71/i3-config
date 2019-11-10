@@ -105,6 +105,5 @@ bindsym --release $mod+shift+d exec i3-dmenu-desktop
 ### END
 
 After set changes in config file, you need to refresh i3, for this action use shortcut $mod + shift + r
-زیر میباشد
 
 
