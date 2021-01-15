@@ -1,8 +1,6 @@
 # i3-config
 Set i3 window manager config in linux (ubuntu)
 
-##### این آموزش به زبان فارسی در [این وب سایت](https://mr-binary.com/کانفیگ-کردن-i3-در-لینوکس-اوبونتو/) میباشد 
-
 ### This config file contains:
 
 * change system layout language with shortcut keys
